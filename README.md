@@ -1,4 +1,3 @@
-web-scraper
-===========
+# Web Scraper
 
-Scrape data from numerically paginated web pages
+Time out loop scrolling, cycling through paginated pages.
